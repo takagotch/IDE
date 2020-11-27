@@ -15,7 +15,7 @@ https://github.com/takagotch/paiza/blob/master/README.md
 https://jsfiddle.net/StartBootstrap/o7ev9czn/
 
 ###### codepen
-https://codepen.io/pen/tour/welcome/start
+https://github.com/takagotch/codepen/blob/master/README.md
 
 ###### local, linux
 vi

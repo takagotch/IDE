@@ -18,7 +18,7 @@ https://jsfiddle.net/StartBootstrap/o7ev9czn/
 https://github.com/takagotch/codepen/blob/master/README.md
 
 ###### local, linux
-vi
+https://github.com/takagotch/vi
 
 
 
